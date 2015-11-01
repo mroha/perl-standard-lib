@@ -1,10 +1,5 @@
-# $Id $
-
 =pod
 =head1 COPYRIGHT
-
-
-$Id$
 
 Filename: Logfile.pm
 Packages: LogFile
